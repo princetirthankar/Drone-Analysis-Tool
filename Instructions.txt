@@ -1,0 +1,19 @@
+pip install flask
+pip install flask-googlemaps
+pip install -r req.txt
+
+
+
+aa use krjo css mate
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+
+aa che google maps ni api
+https://github.com/flask-extensions/Flask-GoogleMaps
+
+
+flask ma nvo end point banavo hot to 
+
+@app.route('url end point')
+def unique_func_name():
+    return render_template('template_name_.html')
