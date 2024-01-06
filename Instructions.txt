@@ -1,7 +1,20 @@
+python -m venv env
+aana thi virtual env banavjo, 
+active krva
+env\Scripts\activate
+
+
+activate krine aa niche na 3 run krva
+
+pip install -r req.txt
 pip install flask
 pip install flask-googlemaps
-pip install -r req.txt
 
+bashu insatll thai jay etle
+applicaton run krva
+
+
+flask run
 
 
 aa use krjo css mate
